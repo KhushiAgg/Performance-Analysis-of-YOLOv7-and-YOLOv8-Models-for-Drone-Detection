@@ -24,11 +24,25 @@ accuracy, YOLO is a well-liked object identification technique.
 Link of the dataset: https://universe.roboflow.com/vinitawale/drones-uav-yolov5/dataset/1
 
 # YOLOv7 Output :
-images
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v7%20results/v1img1.png"> <img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v7%20results/v1img2.png">
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v7%20results/v1img3.png">
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v7%20results/v1img4.png">
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v7%20results/v7vid1.png">
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v7%20results/v7vid2.png">
 
+* YOLOV7 Confusion Matrix
+
+<img width = 900, height = 800, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v7%20results/v7cm.png">
 
 # YOLOv8 Output :
-images
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v8%20results/v8img1.png"> <img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v8%20results/v8img2.png">
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v8%20results/v8img3.png">
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v8%20results/v8img4.png">
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v8%20results/v8vid1.png">
+<img width = 250, height = 250, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v8%20results/v8vid2.png">
+* YOLOV8 Confusion Matrix
+
+<img width = 900, height = 800, src = "https://github.com/KhushiAgg/Performance-Analysis-of-YOLOv7-and-YOLOv8-Models-for-Drone-Detection/blob/main/drone%20yolo%20v8%20results/v8cm.png">
 
 # Results
  We got the result that for 10 epochs YOLOv8 gave 50.16% accuracy
